@@ -39,7 +39,8 @@ Randomized computer choices to keep the game unpredictable.
 Simple and straightforward gameplay for players of all ages.
 
 # Website 
-![rock_paper_scissors game](https://github.com/Anupriya2508/Rock_Paper_Scissors/assets/89139657/f53f0d57-5ce9-4ed2-9807-35ab67518fa2)
+
+![rock_paper_scissors game](https://github.com/Anupriya2508/Rock_Paper_scissors/assets/89139657/2417bd95-28a3-44d5-8867-eb468046ec34)
 
 Result is being displayed!
-![rock_paper_scissors game1](https://github.com/Anupriya2508/Rock_Paper_Scissors/assets/89139657/f8c47f87-1dc6-4ca6-b55f-c30e9f8102b6)
+![rock_paper_scissors game1](https://github.com/Anupriya2508/Rock_Paper_scissors/assets/89139657/8dd68144-e72b-42d3-b8ea-f83ccc2c046d)
